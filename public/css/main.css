@@ -1,0 +1,33 @@
+.table-condensed{
+    font-size: 0.9rem;
+}
+
+.div-border-bottom {
+    border-bottom: 2px solid #212529;;
+}
+
+.select-width {
+    width: 65% !important;
+}
+
+/* Circle info button on the main page */
+.btn-circle {
+    width: 45px;
+    height: 45px;
+    line-height: 45px;
+    text-align: center;
+    padding: 0;
+    border-radius: 50% !important;
+}
+
+.btn-circle i {
+    position: relative;
+    top: -1px;
+}
+
+.btn-circle-sm {
+    width: 35px;
+    height: 35px;
+    line-height: 35px;
+    font-size: 0.9rem;
+}
